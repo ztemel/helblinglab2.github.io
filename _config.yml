@@ -20,7 +20,7 @@ author: Zeynep Temel
 ###############################################
 
 navbar-links:
-  Home: "home"
+  Home: ""
   Team:
     - People: "people"
     - Robots: "robots"
