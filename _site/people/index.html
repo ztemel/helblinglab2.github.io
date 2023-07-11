@@ -123,9 +123,6 @@
 
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="">Home</a>
-          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Team</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
@@ -137,9 +134,16 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/research">Current Research</a>
                   <a class="dropdown-item" href="/publications">Publications</a>
-                  <a class="dropdown-item" href="/current_research">Current Research</a>
-                  <a class="dropdown-item" href="/arhcived_research">Archived Research</a>
+            </div>
+          </li>
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Courses</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/16-235">Undergrad</a>
+                  <a class="dropdown-item" href="/16-778">Graduate</a>
             </div>
           </li>
         
@@ -150,13 +154,7 @@
                   <a class="dropdown-item" href="https://github.com/ZoomLabCMU">Github</a>
             </div>
           </li>
-        
-        <li class="nav-item">
-          <a class="nav-link" id="nav-search-link" href="#" title="Search">
-            <span id="nav-search-icon" class="fa fa-search"></span>
-            <span id="nav-search-text">Search</span>
-          </a>
-        </li></ul>
+        </ul>
   </div>
 
   
@@ -172,72 +170,6 @@
   
 
 </nav>
-
-
-
-<div id="beautifuljekyll-search-overlay">
-
-  <div id="nav-search-exit" title="Exit search">✕</div>
-  <input type="text" id="nav-search-input" placeholder="Search">
-  <ul id="search-results-container"></ul>
-  
-  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-  <script>
-    var searchjson = '[ \
-       \
-        { \
-          "title"    : "Sample blog post", \
-          "category" : "test", \
-          "url"      : "/2020-02-28-test-markdown/", \
-          "date"     : "February 28, 2020" \
-        }, \
-       \
-        { \
-          "title"    : "Flake it till you make it", \
-          "category" : "bookstest", \
-          "url"      : "/2020-02-26-flake-it-till-you-make-it/", \
-          "date"     : "February 26, 2020" \
-        }, \
-       \
-       \
-        { \
-          "title"    : "About me", \
-          "category" : "page", \
-          "url"      : "/aboutme/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
-          "title"    : "ZOOM LAB CMU", \
-          "category" : "page", \
-          "url"      : "/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
-          "title"    : "People", \
-          "category" : "page", \
-          "url"      : "/people/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
-          "title"    : "Tag Index", \
-          "category" : "page", \
-          "url"      : "/tags/", \
-          "date"     : "January 1, 1970" \
-        } \
-       \
-    ]';
-    searchjson = JSON.parse(searchjson);
-
-    var sjs = SimpleJekyllSearch({
-      searchInput: document.getElementById('nav-search-input'),
-      resultsContainer: document.getElementById('search-results-container'),
-      json: searchjson
-    });
-  </script>
-</div>
 
 
 
@@ -286,6 +218,7 @@
       <h2 id="current-members">Current Members</h2>
 
 <h3 id="faculty">Faculty</h3>
+
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-4 text-center">
@@ -295,6 +228,17 @@
 	</div>
 </div>
 
+<h3 id="project-scientists">Project Scientists</h3>
+
+<div class="container-fluid">
+<div class="row">
+  <div class="col-md-3 text-center">
+    <a href="https://www.linkedin.com/in/yi%C4%9Fit-meng%C3%BC%C3%A7-b88031160/">
+    <img class="img-responsive img-circle" src="/assets/img/headshots/Yigit.jpeg" alt="I'm Ben, wearing a casual green shirt with a blue blazer. I am smiling towards the camera with my hair messily swept to the right." />
+    Yiğit Mengüç</a>
+  </div>
+</div>
+</div>
 <!-- Commented out so easier to reinflate later
 ### Postdoctoral Scholars
 <div class="container-fluid">
@@ -318,24 +262,26 @@
 </div> -->
 
 <h3 id="phd-students">PhD Students</h3>
+
 <div class="container-fluid">
 <div class="row">
   <div class="col-md-3 text-center">
     <a href="http://ri.cmu.edu/ri-people/benjamin-newman/">
     <img class="img-responsive img-circle" src="/assets/img/headshots/Spencer.jpeg" alt="I'm Ben, wearing a casual green shirt with a blue blazer. I am smiling towards the camera with my hair messily swept to the right." />
-    Ben Newman</a>
+    Spencer Matonis</a>
   </div>
   <div class="col-md-3 text-center">
-    <a href="https://www.hcii.cmu.edu/people/stephanie-valencia2">
-    <img class="img-responsive img-circle" src="/assets/img/headshots/Yisha.png" alt="I am Stephanie. I have dark blonde hair and green eyes. In this headshot I am wearing a black blazer and I am smiling." />Stephanie Valencia-Valencia</a>
+    <a href="https://www.ri.cmu.edu/ri-people/yisha-sha-yi/">
+    <img class="img-responsive img-circle" src="/assets/img/headshots/Yisha.png" alt="I am Stephanie. I have dark blonde hair and green eyes. In this headshot I am wearing a black blazer and I am smiling." />Sha Yi</a>
   </div>
   <div class="col-md-3 text-center">
-    <a href="https://symikelee.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Zilin.png" alt="I am Mike Lee and I'm standing in a colorful atrium with a light smile. I’m wearing a purple checkered shirt and khakis." />Mike Lee</a>
+    <a href="https://symikelee.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Zilin.png" alt="I am Mike Lee and I'm standing in a colorful atrium with a light smile. I’m wearing a purple checkered shirt and khakis." />Zilin Si</a>
   </div>
 </div>
 </div>
 
 <h3 id="masters-students">Master’s Students</h3>
+
 <div class="container-fluid">
 <div class="row">
 
@@ -369,6 +315,7 @@
 </div>
 
 <h3 id="undergraduate-students">Undergraduate students</h3>
+
 <div class="container-fluid">
 <div class="row">
 <div class="col-md-3 text-center">
@@ -379,28 +326,32 @@
 	<a href="https://www.linkedin.com/in/anastasiia-runova"><img class="img-responsive img-circle" src="/assets/img/headshots/Chris.jpeg" alt="" />Chris Chang</a>
 </div>
 
-
 </div>
 </div>
 
 <h2 id="alumni">Alumni</h2>
+
 <h3 id="phd-students-1">PhD Students:</h3>
+
 <ul>
-  <li><a href="http://www.edayaxin.com/">David Ma ()</a>
-    <h3 id="master-students">Master Students:</h3>
-  </li>
-  <li>“/assets/img/headshots/Erin.png” : “Carmel-by-the-Sea, CA (2016)”</li>
-  <li>“/assets/img/headshots/Fukang.png” : “Carmel-by-the-Sea, CA (2016)”</li>
-  <li>“/assets/img/headshots/Sarvesh.png” : “Carmel-by-the-Sea, CA (2016)”</li>
-  <li>“/assets/img/headshots/Bozhong.jpeg” : “Carmel-by-the-Sea, CA (2016)”</li>
-  <li>“/assets/img/headshots/Apple.jpeg” : “Carmel-by-the-Sea, CA (2016)”
-    <h3 id="undergraduate-students-1">Undergraduate Students:</h3>
-  </li>
-  <li>“/assets/img/headshots/Emily.jpeg” : “Carmel-by-the-Sea, CA (2016)”</li>
-  <li>“/assets/img/headshots/Chris.jpeg” : “Carmel-by-the-Sea, CA (2016)”</li>
+  <li><a href="http://www.edayaxin.com/">David Ma</a></li>
 </ul>
 
-<h3 id="visiting-researchers">Visiting Researchers:</h3>
+<h3 id="master-students">Master Students:</h3>
+
+<ul>
+  <li><a href="https://www.linkedin.com/in/avi-rudich/">Avi Rudich</a></li>
+</ul>
+
+<h3 id="undergraduate-students-1">Undergraduate Students:</h3>
+
+<ul>
+  <li><a href="https://www.linkedin.com/in/sam-alvares-178314172/">Sam Alvares</a></li>
+</ul>
+
+<!-- ### Visiting Researchers: -->
+<!-- 
+### Collaborators -->
 
 
       
@@ -417,14 +368,6 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
       <ul class="list-inline text-center footer-links"><li class="list-inline-item">
-    <a href="/feed.xml" title="RSS">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">RSS</span>
-    </a>
-  </li><li class="list-inline-item">
     <a href="mailto:cmuzoomlab@gmail.com" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>

@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "People"
-subtitle: ZoomLab People 
+subtitle: ZoomLab People
 ---
+
 ## Current Members
 
 ### Faculty
+
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-4 text-center">
@@ -15,7 +17,17 @@ subtitle: ZoomLab People
 	</div>
 </div>
 
+### Project Scientists
 
+<div class="container-fluid">
+<div class="row">
+  <div class="col-md-3 text-center">
+    <a href="https://www.linkedin.com/in/yi%C4%9Fit-meng%C3%BC%C3%A7-b88031160/">
+    <img class="img-responsive img-circle" src="/assets/img/headshots/Yigit.jpeg" alt="I'm Ben, wearing a casual green shirt with a blue blazer. I am smiling towards the camera with my hair messily swept to the right." />
+    Yiğit Mengüç</a>
+  </div>
+</div>
+</div>
 <!-- Commented out so easier to reinflate later
 ### Postdoctoral Scholars
 <div class="container-fluid">
@@ -28,7 +40,6 @@ subtitle: ZoomLab People
 </div>
 </div> -->
 
-
 <!-- ### Postdoctoral Scholars
 <div class="container-fluid">
 	<div class="row">
@@ -39,28 +50,27 @@ subtitle: ZoomLab People
 	</div>
 </div> -->
 
-
-
 ### PhD Students
+
 <div class="container-fluid">
 <div class="row">
   <div class="col-md-3 text-center">
     <a href="http://ri.cmu.edu/ri-people/benjamin-newman/">
     <img class="img-responsive img-circle" src="/assets/img/headshots/Spencer.jpeg" alt="I'm Ben, wearing a casual green shirt with a blue blazer. I am smiling towards the camera with my hair messily swept to the right." />
-    Ben Newman</a>
+    Spencer Matonis</a>
   </div>
   <div class="col-md-3 text-center">
-    <a href="https://www.hcii.cmu.edu/people/stephanie-valencia2">
-    <img class="img-responsive img-circle" src="/assets/img/headshots/Yisha.png" alt="I am Stephanie. I have dark blonde hair and green eyes. In this headshot I am wearing a black blazer and I am smiling." />Stephanie Valencia-Valencia</a>
+    <a href="https://www.ri.cmu.edu/ri-people/yisha-sha-yi/">
+    <img class="img-responsive img-circle" src="/assets/img/headshots/Yisha.png" alt="I am Stephanie. I have dark blonde hair and green eyes. In this headshot I am wearing a black blazer and I am smiling." />Sha Yi</a>
   </div>
   <div class="col-md-3 text-center">
-    <a href="https://symikelee.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Zilin.png" alt="I am Mike Lee and I'm standing in a colorful atrium with a light smile. I’m wearing a purple checkered shirt and khakis." />Mike Lee</a>
+    <a href="https://symikelee.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Zilin.png" alt="I am Mike Lee and I'm standing in a colorful atrium with a light smile. I’m wearing a purple checkered shirt and khakis." />Zilin Si</a>
   </div>
 </div>
 </div>
-
 
 ### Master's Students
+
 <div class="container-fluid">
 <div class="row">
 
@@ -94,6 +104,7 @@ subtitle: ZoomLab People
 </div>
 
 ### Undergraduate students
+
 <div class="container-fluid">
 <div class="row">
 <div class="col-md-3 text-center">
@@ -104,21 +115,23 @@ subtitle: ZoomLab People
 	<a href="https://www.linkedin.com/in/anastasiia-runova"><img class="img-responsive img-circle" src="/assets/img/headshots/Chris.jpeg" alt="" />Chris Chang</a>
 </div>
 
-
 </div>
 </div>
 
 ## Alumni
-### PhD Students:
- - [David Ma ()](http://www.edayaxin.com/)
-### Master Students:
-  - "/assets/img/headshots/Erin.png" : "Carmel-by-the-Sea, CA (2016)"
-  - "/assets/img/headshots/Fukang.png" : "Carmel-by-the-Sea, CA (2016)"
-  - "/assets/img/headshots/Sarvesh.png" : "Carmel-by-the-Sea, CA (2016)"
-  - "/assets/img/headshots/Bozhong.jpeg" : "Carmel-by-the-Sea, CA (2016)"
-  - "/assets/img/headshots/Apple.jpeg" : "Carmel-by-the-Sea, CA (2016)"
-### Undergraduate Students:
-  - "/assets/img/headshots/Emily.jpeg" : "Carmel-by-the-Sea, CA (2016)"
-  - "/assets/img/headshots/Chris.jpeg" : "Carmel-by-the-Sea, CA (2016)"
 
-### Visiting Researchers:
+### PhD Students:
+
+- [David Ma](http://www.edayaxin.com/)
+
+### Master Students:
+
+- [Avi Rudich](https://www.linkedin.com/in/avi-rudich/)
+
+### Undergraduate Students:
+
+- [Sam Alvares](https://www.linkedin.com/in/sam-alvares-178314172/)
+
+<!-- ### Visiting Researchers: -->
+<!-- 
+### Collaborators -->

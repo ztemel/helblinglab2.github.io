@@ -80,7 +80,7 @@
   <meta property="og:description" content="Compliant Systems for Mechanical Intelligence">
 
   
-  <meta property="og:image" content="http://localhost:4000/assets/img/cover_img.png">
+  <meta property="og:image" content="http://localhost:4000/assets/img/cover_img.jpg">
   
 
   
@@ -99,7 +99,7 @@
   <meta property="twitter:description" content="Compliant Systems for Mechanical Intelligence">
 
   
-  <meta name="twitter:image" content="http://localhost:4000/assets/img/cover_img.png">
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/cover_img.jpg">
   
 
   
@@ -123,9 +123,6 @@
 
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="">Home</a>
-          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Team</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
@@ -137,9 +134,16 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/research">Current Research</a>
                   <a class="dropdown-item" href="/publications">Publications</a>
-                  <a class="dropdown-item" href="/current_research">Current Research</a>
-                  <a class="dropdown-item" href="/arhcived_research">Archived Research</a>
+            </div>
+          </li>
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Courses</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/16-235">Undergrad</a>
+                  <a class="dropdown-item" href="/16-778">Graduate</a>
             </div>
           </li>
         
@@ -150,13 +154,7 @@
                   <a class="dropdown-item" href="https://github.com/ZoomLabCMU">Github</a>
             </div>
           </li>
-        
-        <li class="nav-item">
-          <a class="nav-link" id="nav-search-link" href="#" title="Search">
-            <span id="nav-search-icon" class="fa fa-search"></span>
-            <span id="nav-search-text">Search</span>
-          </a>
-        </li></ul>
+        </ul>
   </div>
 
   
@@ -175,72 +173,6 @@
 
 
 
-<div id="beautifuljekyll-search-overlay">
-
-  <div id="nav-search-exit" title="Exit search">✕</div>
-  <input type="text" id="nav-search-input" placeholder="Search">
-  <ul id="search-results-container"></ul>
-  
-  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-  <script>
-    var searchjson = '[ \
-       \
-        { \
-          "title"    : "Sample blog post", \
-          "category" : "test", \
-          "url"      : "/2020-02-28-test-markdown/", \
-          "date"     : "February 28, 2020" \
-        }, \
-       \
-        { \
-          "title"    : "Flake it till you make it", \
-          "category" : "bookstest", \
-          "url"      : "/2020-02-26-flake-it-till-you-make-it/", \
-          "date"     : "February 26, 2020" \
-        }, \
-       \
-       \
-        { \
-          "title"    : "About me", \
-          "category" : "page", \
-          "url"      : "/aboutme/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
-          "title"    : "ZOOM LAB CMU", \
-          "category" : "page", \
-          "url"      : "/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
-          "title"    : "People", \
-          "category" : "page", \
-          "url"      : "/people/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
-          "title"    : "Tag Index", \
-          "category" : "page", \
-          "url"      : "/tags/", \
-          "date"     : "January 1, 1970" \
-        } \
-       \
-    ]';
-    searchjson = JSON.parse(searchjson);
-
-    var sjs = SimpleJekyllSearch({
-      searchInput: document.getElementById('nav-search-input'),
-      resultsContainer: document.getElementById('search-results-container'),
-      json: searchjson
-    });
-  </script>
-</div>
-
-
-
 
 
   <!-- TODO this file has become a mess, refactor it -->
@@ -255,7 +187,7 @@
     
     
       
-      data-img-src-1="http://localhost:4000/assets/img/cover_img.png"
+      data-img-src-1="http://localhost:4000/assets/img/cover_img.jpg"
     
     
     
@@ -315,7 +247,47 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      
+      <h2 id="about-us">About Us</h2>
+
+<p style="text-align: justify;"> 
+    Founded in late 2019, our vision at Zoom Lab is to create robots that can mechanically conform to the environment or objects that they interact with to alleviate the need for high-speed, high-accuracy, and high-precision controllers. We pursue this goal by developing compliant mechanisms for manipulators and robots, focusing on bio-inspiration and unconventional materials, and engaging with the community to increase interest in science and engineering.
+</p>
+
+<p>We are a part of the <a href="https://ri.cmu.edu">Robotics Insitute</a> at <a href="https://cmu.edu">Carnegie Mellon University</a>.</p>
+
+<p>We are looking to expand our team. If you’re interested, read about our <a href="">open positions</a>! To get more information about research and facilities, <a href="">click here</a>.</p>
+
+<p>Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!</p>
+
+<hr />
+
+<h4 id="news">News</h4>
+
+<ul>
+  <li>
+    <p><strong>7 June ‘23</strong>: News 1
+<!-- [pdf](/assets/pubs/)--></p>
+  </li>
+  <li>
+    <p><strong>15 May ‘23</strong>: News 2
+<!-- [pdf](/assets/pubs/)--></p>
+  </li>
+  <li>
+    <p><strong>28 Apr ‘23</strong>: News 3
+<!-- [pdf](/assets/pubs/)--></p>
+  </li>
+</ul>
+
+<!-- ##################################################
+    CHANGE THESE LINKS
+    ###################################################
+ -->
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async=""></script>
+
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;" data-link="https://photos.app.goo.gl/c2eCDapUi74FYBJL9" data-title="Lab Photos" data-description="21 new photos added to shared album" data-background-color="#ffffff">
+  <object data="https://lh3.googleusercontent.com/FcEslLZJmiWXhrRVzvKfCzgmI6w4nBi5yX5B6hdrpNWn-UGweTRK1eUH5d-eswn0dq3YCv7Nc0v8ToKQGT2zLo2bqauTWSTZCb1Mw1wfc0YCZOH9e-K62WTQFJzmjgNy6P6Jo651-A=w1920-h1080"></object>
+</div>
+
 
 
 
@@ -465,14 +437,6 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
       <ul class="list-inline text-center footer-links"><li class="list-inline-item">
-    <a href="/feed.xml" title="RSS">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">RSS</span>
-    </a>
-  </li><li class="list-inline-item">
     <a href="mailto:cmuzoomlab@gmail.com" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>

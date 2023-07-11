@@ -20,14 +20,15 @@ author: Zeynep Temel
 ###############################################
 
 navbar-links:
-  Home: ""
   Team:
     - People: "people"
     - Robots: "robots"
   Research:
+    - Current Research: "research"
     - Publications: "publications"
-    - Current Research: "current_research"
-    - Archived Research: "arhcived_research"
+  Courses:
+    - Undergrad: "16-235" 
+    - Graduate: "16-778"
   Resources:
     - WIKIs: "wikis"
     - Github: "https://github.com/ZoomLabCMU"
@@ -56,7 +57,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "cmuzoomlab@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
   github: ZoomLabCMU
   twitter: CMU_ZoomLab
   instagram: cmuzoomlab
@@ -108,10 +109,10 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
