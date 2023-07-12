@@ -94,7 +94,7 @@ subtitle: ZoomLab People
 <div class="row">
 
 <div class="col-md-3 text-center">
-	<a href="https://peej1818.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Apple.jpeg" alt="Patrick Callaghan" />Sarvesh Patil</a>
+	<a href="https://peej1818.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Sarvesh.jpeg" alt="Patrick Callaghan" />Sarvesh Patil</a>
 </div>
 <div class="col-md-3 text-center">
 	<a href="https://peej1818.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Tim.jpeg" alt="Patrick Callaghan" />Timothy Mayer</a>

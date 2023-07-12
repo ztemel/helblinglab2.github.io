@@ -252,10 +252,10 @@ img {
   border: 0;
   padding: 0;
   {% if site.navbar-var-length %}
-  min-width: 100%;
+  min-width: 110%;
   {% else %}
   min-width: 0;
-  width: 100%;
+  width: 110%;
   word-break: break-word;
   {% endif %}
 }
