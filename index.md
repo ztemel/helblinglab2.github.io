@@ -14,7 +14,7 @@ cover-img: "assets/img/cover_img.jpg"
 We are a part of the [Robotics Insitute](https://ri.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). 
 
 
-We are looking to expand our team. If you're interested, read about our [open positions]()! To get more information about research and facilities, [click here]().
+We are looking to expand our team. If you're interested, read about our [open positions]()! To get more information about research and facilities, [click here](/research).
 
 Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
 

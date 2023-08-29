@@ -53,20 +53,26 @@ subtitle: ZoomLab People
 ### PhD Students
 
 <div class="container-fluid">
-<div class="row">
-  <div class="col-md-3 text-center">
-    <a href="http://ri.cmu.edu/ri-people/benjamin-newman/">
-    <img class="img-responsive img-circle" src="/assets/img/headshots/Spencer.jpeg" alt="I'm Ben, wearing a casual green shirt with a blue blazer. I am smiling towards the camera with my hair messily swept to the right." />
-    Spencer Matonis</a>
-  </div>
-  <div class="col-md-3 text-center">
-    <a href="https://www.ri.cmu.edu/ri-people/yisha-sha-yi/">
-    <img class="img-responsive img-circle" src="/assets/img/headshots/Yisha.png" alt="I am Stephanie. I have dark blonde hair and green eyes. In this headshot I am wearing a black blazer and I am smiling." />Sha Yi</a>
-  </div>
-  <div class="col-md-3 text-center">
-    <a href="https://symikelee.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Zilin.png" alt="I am Mike Lee and I'm standing in a colorful atrium with a light smile. I’m wearing a purple checkered shirt and khakis." />Zilin Si</a>
-  </div>
-</div>
+	<div class="row">
+		<div class="col-md-3 text-center">
+			<a href="http://ri.cmu.edu/ri-people/benjamin-newman/">
+			<img class="img-responsive img-circle" src="/assets/img/headshots/Spencer.jpeg" alt="I'm Ben, wearing a casual green shirt with a blue blazer. I am smiling towards the camera with my hair messily swept to the right." />
+			Spencer Matonis</a>
+		</div>
+		<div class="col-md-3 text-center">
+			<a href="https://www.ri.cmu.edu/ri-people/yisha-sha-yi/">
+			<img class="img-responsive img-circle" src="/assets/img/headshots/Yisha.png" alt="I am Stephanie. I have dark blonde hair and green eyes. In this headshot I am wearing a black blazer and I am smiling." />Sha Yi</a>
+		</div>
+		<div class="col-md-3 text-center">
+			<a href="https://symikelee.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Zilin.png" alt="Zilin Si" />Zilin Si</a>
+		</div>
+		<div class="col-md-3 text-center">
+			<a href="https://servo97.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Sarvesh.jpg" alt="Sarvesh Patil" />Sarvesh Patil</a>
+		</div>
+		<div class="col-md-3 text-center">
+			<a href="https://www.linkedin.com/in/shashwat-1singh/"><img class="img-responsive img-circle" src="/assets/img/headshots/Shashwat.jpg" alt="Sarvesh Patil" />Shashwat Singh</a>
+		</div>
+	</div>
 </div>
 
 ### Master's Students
@@ -75,29 +81,16 @@ subtitle: ZoomLab People
 <div class="row">
 
 <div class="col-md-3 text-center">
-	<a href="https://peej1818.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Apple.jpeg" alt="Patrick Callaghan" />Yi Zhao</a>
-</div>
-<div class="col-md-3 text-center">
-	<a href="http://pranaygupta36.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Bozhong.jpeg" alt="Patrick Callaghan" />Bozhong Zhuang</a>
-</div>
-<div class="col-md-3 text-center">
-	<a href="http://pranaygupta36.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Erin.png" alt="Patrick Callaghan" />Erin Wong</a>
-</div>
-<div class="col-md-3 text-center">
-	<a href="http://pranaygupta36.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Fukang.png" alt="Patrick Callaghan" />Fukang Liu</a>
-</div>
-
-</div>
-</div>
-
-<div class="container-fluid">
-<div class="row">
-
-<div class="col-md-3 text-center">
-	<a href="https://peej1818.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Sarvesh.jpeg" alt="Patrick Callaghan" />Sarvesh Patil</a>
-</div>
-<div class="col-md-3 text-center">
 	<a href="https://peej1818.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Tim.jpeg" alt="Patrick Callaghan" />Timothy Mayer</a>
+</div>
+<div class="col-md-3 text-center">
+	<a href="http://pranaygupta36.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Apple.jpeg" alt="Apple Zhao" />Yi Zhao</a>
+</div>
+<div class="col-md-3 text-center">
+	<a href="https://www.linkedin.com/in/anastasiia-runova"><img class="img-responsive img-circle" src="/assets/img/headshots/Chris.jpeg" alt="" />Chris Chang</a>
+</div>
+<div class="col-md-3 text-center">
+	<a href="http://pranaygupta36.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Jennifer.jpeg" alt="Jennifer Yang" />Jennifer Yang</a>
 </div>
 
 </div>
@@ -111,8 +104,15 @@ subtitle: ZoomLab People
 	<a href="http://andrew.cmu.edu/user/gsilvera"><img class="img-responsive img-circle" src="/assets/img/headshots/Emily.jpeg" alt="Gustavo Silvera" />Emily Guo</a>
 </div>
 
+</div>
+</div>
+
+### Research Associcat
+
+<div class="container-fluid">
+<div class="row">
 <div class="col-md-3 text-center">
-	<a href="https://www.linkedin.com/in/anastasiia-runova"><img class="img-responsive img-circle" src="/assets/img/headshots/Chris.jpeg" alt="" />Chris Chang</a>
+	<a href="#"><img class="img-responsive img-circle" src="/assets/img/headshots/Leo.png" alt="Leo" />Leo</a>
 </div>
 
 </div>
@@ -121,17 +121,18 @@ subtitle: ZoomLab People
 ## Alumni
 
 ### PhD Students:
-
 - [David Ma](http://www.edayaxin.com/)
 
 ### Master Students:
-
+- [Erin Wong](https://www.linkedin.com/in/erinwong/)
+- [Fukang Liu](https://fukangl.github.io/)
 - [Avi Rudich](https://www.linkedin.com/in/avi-rudich/)
 
 ### Undergraduate Students:
-
+- [Tony Tao](https://www.linkedin.com/in/tony-long-tao/)
+- [James Clinton](https://www.linkedin.com/in/james-clinton1/)
+- [Kylie Barber](https://www.linkedin.com/in/kylie-marie-barber/)
+- [Kaylie Barber](https://www.linkedin.com/in/kaylie-alexandra-barber/)
 - [Sam Alvares](https://www.linkedin.com/in/sam-alvares-178314172/)
-
 <!-- ### Visiting Researchers: -->
-<!-- 
-### Collaborators -->
+<!-- ### Collaborators -->

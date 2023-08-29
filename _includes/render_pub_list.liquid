@@ -1,0 +1,12 @@
+
+{% capture condition %}
+  pub[include.variable] {{include.check}} include.value
+{% endcapture %}
+
+{% assign my_pubs = site.data.pubs | where_exp: "pub", condition %}
+
+{% if my_pubs %}
+    {% for pub in my_pubs %}
+        {% include render_pub.liquid pub=pub %}
+    {% endfor %}
+{% endif %}

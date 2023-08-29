@@ -1,23 +1,15 @@
-- title: "Characterizing Drivers’ Peripheral Vision via the Functional Field of View for Intelligent Driving Assistance"
-  author: Abhijat Biswas, Henny Admoni
-  booktitle: IEEE International Vehicles Symposium (IV)
+- title: "Linear Delta Arrays for Compliant Dexterous Distributed Manipulation"
+  author: Sarvesh Patil, Tony Tao, Tess Hellebrekers, Oliver Kroemer, F. Zeynep Temel
+  booktitle: IEEE International Conference on Robotics and Automation (ICRA)
   category: conference
   year: 2023
-  projects: driver_assist
-  filename: biswas_IV2023.pdf
+  projects: delta_robots
+  filename: delta_arrays.pdf
 
-- title: "Mitigating Causal Confusion in Driving Agents via Gaze Supervision "
-  author:  Abhijat Biswas, BA Pardhi, Caleb Chuck, Jarrett Holtz, Scott Niekum, Henny Admoni, and Alessandro Allievi 
-  booktitle: Workshop on Aligning Robot Representation with Humans @ Conference on Robot Learning (CoRL)
-  category: workshop
-  year: 2022
-  projects: driver_assist
-  filename: biswas_ARRH2022.pdf
-
-- title: "INQUIRE: INteractive Querying for User-aware Informative REasoning"
-  author: Tesca Fitzgerald, Pallavi Koppol, Patrick Callaghan, Russell Quinlan Jun Hei Wong, Reid Simmons, Oliver Kroemer, Henny Admoni.
-  booktitle: Conference on Robot Learning (CoRL)
+- title: "DeltaZ: An Accessible Compliant Delta Robot Manipulator for Research and Education"
+  author:  Sarvesh Patil; Samuel C. Alvares; Pragna Mannam; Oliver Kroemer; F. Zeynep Temel
+  booktitle: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   category: conference
   year: 2022
-  projects: machine_teaching
-  filename: inquire_interactive_querying_f.pdf
+  projects: delta_robots
+  filename: deltaz.pdf

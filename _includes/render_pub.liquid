@@ -1,0 +1,11 @@
+
+**{{ pub.title }}.**<br />
+{{ pub.author }}. *{{ pub.booktitle }}*{% 
+  if pub.volume != None 
+%}, {{ pub.volume}}{% endif %}{% 
+  if pub.number != None 
+%}({{ pub.number}}){% endif %}. {{ pub.year }}. {% 
+  if pub.filename != None 
+%}[pdf](/assets/pubs/{{ pub.filename }}){% endif %}{% 
+  if pub.supplement != None 
+%}[supplement](/assets/pubs/{{ pub.supplement }}){% endif %}

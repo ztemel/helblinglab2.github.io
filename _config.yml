@@ -24,8 +24,8 @@ navbar-links:
     - People: "people"
     - Robots: "robots"
   Research:
-    - Current Research: " research "
-    - Publications: " publications "
+    - Current Research: "research"
+    - Publications: "publications"
   Courses:
     - Undergrad: "16-235" 
     - Graduate: "16-778"
