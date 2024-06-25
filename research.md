@@ -26,3 +26,24 @@ For more information, please contact [Sarvesh](https://servo97.github.io).
 {% include render_pub_list.liquid variable="projects" value="delta_robots" check="contains" %}
 </div>
 </details>
+
+
+### Springtail µBot
+<!-- <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/delta_arrays.jpg" alt=""> -->
+
+<p style="text-align: justify;"> </p>
+Springtails are tiny arthropods that crawl and jump. They jump by temporarily storing elastic energy in resilin elastic cuticular structures and releasing that energy to accelerate a tail, called a furca, propelling them in the air. We present an autonomous, springtail-inspired microrobot that can crawl and jump. The microrobot has a mass of 980mg and stands 13mm tall, and has on-board sensing, computation, and power, enabling autonomy. The microrobot was designed with a super-elastic shape memory alloy (SMA) spring that is manually loaded to store elastic energy. The on-board sensing and computation triggers an actuator at the jump frequency range that unlatches the spring, launching the microrobot into the air at speeds up to 3.171 m/s. At the same time, the microrobot is capable of crawling, when actuated at frequencies lower or higher than the jump frequency range, demonstrating autonomous multimodal locomotion.
+
+
+<!-- For more information, please contact [Sarvesh](https://servo97.github.io). -->
+
+<!-- Check out our CHI 2020 [video presentation](https://youtu.be/ILgJDQSlgYI) to learn more. -->
+
+<details>
+<summary markdown="1" style="display: list-item;">
+<h4 style="display: inline;">Relevant publications</h4>
+</summary>
+<div markdown="1">
+<!-- {% include render_pub_list.liquid variable="projects" value="delta_robots" check="contains" %} -->
+</div>
+</details>
