@@ -69,7 +69,7 @@ We demonstrate grasping of daily objects using our hand prototypes and teleopera
 </details>
 
 ### Tunable Stiffness
- <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/Tunable Stiffness Incline.jpg" alt="">
+ <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/Tunable Stiffness Incline.png" alt="">
 
 <p style="text-align: justify;"> </p>
 
