@@ -68,10 +68,42 @@ We demonstrate grasping of daily objects using our hand prototypes and teleopera
 </div>
 </details>
 
-<!-- ### 
-<!-- <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/delta_arrays.jpg" alt=""> -->
+### Tunable Stiffness
+ <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/Tunable Stiffness Incline.jpg" alt="">
 
 <p style="text-align: justify;"> </p>
+
+MiniRHex robot, a close design variation of the RHex robot, is a small, open-source,
+fully programmable, and cost efficient hexapod robot. Currently, little research has been
+conducted on how the materials of the MiniRhex robot legs could impact the
+performance of the robot, especially while treading through wet terrain or environments
+with high humidity variations.
+
+To fill in this gap, our research focuses on the utilization of an innovative bioplastic
+material to improve the performance of the MiniRHex robot in high humidity
+environments. Inspired by tree frogs’ ability to adapt to a wet environment, we designed
+new legs for MiniRHex using bioplastic which allows the legs to change their stiffness
+and traction characteristics with respect to humidity. This capability of the material
+opens up new possibilities for the development of MiniRHex robots that are capable of
+responding rapidly to changes in their surroundings, especially in wet or slippery
+conditions.
+<details>
+<summary markdown="1" style="display: list-item;">
+<h4 style="display: inline;">Relevant publications</h4>
+</summary>
+<div markdown="1">
+<!-- {% include render_pub_list.liquid variable="projects" value="delta_robots" check="contains" %} -->
+</div>
+</details>
+
+
+### Delta Walker
+ <!-- <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/Tunable Stiffness Inclie.jpg" alt=""> -->
+
+<p style="text-align: justify;"> </p>
+Delta Walker is a project that stemmed from the Delta Hand, inspired by the Addams Family Hand, Thing. 
+
+We aim to build a walking robot that is small, light, and easy to manufacture. Using linearly-actuated Delta robots with three degrees of freedom, we are investigating the walking gaits that can be created. We are experimenting with coupling link motions between delta robots and usage of a compliant material. Current work is focused on determining the possible gaits in simulation.
 
 <details>
 <summary markdown="1" style="display: list-item;">
@@ -80,4 +112,5 @@ We demonstrate grasping of daily objects using our hand prototypes and teleopera
 <div markdown="1">
 <!-- {% include render_pub_list.liquid variable="projects" value="delta_robots" check="contains" %} -->
 </div>
-</details> -->
+</details>
+
