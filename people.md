@@ -107,7 +107,8 @@ subtitle: ZoomLab People
 	<a href="https://www.linkedin.com/in/emily-guo17/"><img class="img-responsive img-circle" src="/assets/img/headshots/Emily.jpeg" alt="Emily Guo" />Emily Guo</a>
 </div>
 <div class="col-md-3 text-center">
-	<a href=""><img class="img-responsive img-circle" src="" alt="Max Kramer" />Max Kramer</a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="" />Max Kramer</a>
+	
 </div>
 
 </div>
