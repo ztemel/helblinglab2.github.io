@@ -93,7 +93,7 @@ subtitle: ZoomLab People
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Jennifer.jpeg" alt="Jennifer Yang" />Jennifer Yang</a>
 </div>
 <div class="col-md-3 text-center">
-	<a href="https://snibo.me"><img class="img-responsive img-circle" src="/assets/img/headshots/Sidney.jpeg" alt="Sidney Nimako" />Sidney Nimako</a>
+	<a href="https://snibo.me"><img class="img-responsive img-circle" src="/assets/img/headshots/Sidney.jpg" alt="Sidney Nimako" />Sidney Nimako</a>
 </div>
 
 </div>
