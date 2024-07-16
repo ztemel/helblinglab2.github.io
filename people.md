@@ -55,16 +55,16 @@ subtitle: ZoomLab People
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-3 text-center">
-			<a href="http://ri.cmu.edu/ri-people/benjamin-newman/">
-			<img class="img-responsive img-circle" src="/assets/img/headshots/Spencer.jpeg" alt="I'm Ben, wearing a casual green shirt with a blue blazer. I am smiling towards the camera with my hair messily swept to the right." />
+			<a href="">
+			<img class="img-responsive img-circle" src="/assets/img/headshots/Spencer.jpeg" alt="" />
 			Spencer Matonis</a>
 		</div>
 		<div class="col-md-3 text-center">
 			<a href="https://www.ri.cmu.edu/ri-people/yisha-sha-yi/">
-			<img class="img-responsive img-circle" src="/assets/img/headshots/Yisha.png" alt="I am Stephanie. I have dark blonde hair and green eyes. In this headshot I am wearing a black blazer and I am smiling." />Sha Yi</a>
+			<img class="img-responsive img-circle" src="/assets/img/headshots/Yisha.png" alt="" />Sha Yi</a>
 		</div>
 		<div class="col-md-3 text-center">
-			<a href="https://symikelee.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Zilin.png" alt="Zilin Si" />Zilin Si</a>
+			<a href="https://si-lynnn.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Zilin.png" alt="Zilin Si" />Zilin Si</a>
 		</div>
 		<div class="col-md-3 text-center">
 			<a href="https://servo97.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Sarvesh.jpg" alt="Sarvesh Patil" />Sarvesh Patil</a>
@@ -81,16 +81,19 @@ subtitle: ZoomLab People
 <div class="row">
 
 <div class="col-md-3 text-center">
-	<a href="https://peej1818.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Tim.jpeg" alt="Patrick Callaghan" />Timothy Mayer</a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Tim.jpeg" alt="" />Timothy Mayer</a>
 </div>
 <div class="col-md-3 text-center">
-	<a href="http://pranaygupta36.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Apple.jpeg" alt="Apple Zhao" />Yi Zhao</a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Apple.jpeg" alt="Apple Zhao" />Yi Zhao</a>
 </div>
 <div class="col-md-3 text-center">
-	<a href="https://www.linkedin.com/in/anastasiia-runova"><img class="img-responsive img-circle" src="/assets/img/headshots/Chris.jpeg" alt="" />Chris Chang</a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Chris.jpeg" alt="" />Chris Chang</a>
 </div>
 <div class="col-md-3 text-center">
-	<a href="http://pranaygupta36.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Jennifer.jpeg" alt="Jennifer Yang" />Jennifer Yang</a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Jennifer.jpeg" alt="Jennifer Yang" />Jennifer Yang</a>
+</div>
+<div class="col-md-3 text-center">
+	<a href="https://snibo.me"><img class="img-responsive img-circle" src="/assets/img/headshots/Sidney.jpeg" alt="Sidney Nimako" />Sidney Nimako</a>
 </div>
 
 </div>
@@ -101,7 +104,7 @@ subtitle: ZoomLab People
 <div class="container-fluid">
 <div class="row">
 <div class="col-md-3 text-center">
-	<a href="http://andrew.cmu.edu/user/gsilvera"><img class="img-responsive img-circle" src="/assets/img/headshots/Emily.jpeg" alt="Gustavo Silvera" />Emily Guo</a>
+	<a href="https://www.linkedin.com/in/emily-guo17/"><img class="img-responsive img-circle" src="/assets/img/headshots/Emily.jpeg" alt="Emily Guo" />Emily Guo</a>
 </div>
 
 </div>
