@@ -113,7 +113,7 @@ subtitle: ZoomLab People
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="" />Isaac Osei</a>
 </div>
 <div class="col-md-3 text-center">
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="" />Tiffany Han</a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Tiffany.jpg" alt="" />Tiffany Han</a>
 </div>
 <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="" />Maggie Cai</a>
