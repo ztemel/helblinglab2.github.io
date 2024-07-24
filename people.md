@@ -116,7 +116,7 @@ subtitle: ZoomLab People
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Tiffany.jpg" alt="" />Tiffany Han</a>
 </div>
 <div class="col-md-3 text-center">
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Maggie.PNG" alt="" />Maggie Cai</a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Maggie.jpg" alt="" />Maggie Cai</a>
 </div>
 <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Olivia.jpg" alt="" />Olivia Sobek</a>
