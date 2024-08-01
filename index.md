@@ -2,7 +2,7 @@
 layout: home
 title: ZOOM LAB CMU
 subtitle: Compliant Systems for Mechanical Intelligence
-cover-img: "assets/img/Zoom LAb Mathead.jpg"
+cover-img: "assets/img/Zoom Lab Masthead.jpg"
 ---
 
 ## About Us
