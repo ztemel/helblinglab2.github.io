@@ -116,7 +116,7 @@ We aim to build a walking robot that is small, light, and easy to manufacture. U
 
 
 ### Rescue Rollers
- <!-- <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/Tunable Stiffness Inclie.jpg" alt=""> -->
+ <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/Rescue Rollers Photo.jpg" alt="">
 
 <p style="text-align: justify;"> </p>
 Rescue Rollers are centimeter scale robots designed to operate in unstructured environments. We are exploring how we can acheive roboust locomotion with robots of this size after natural disasters. By leveraging their size and a suite of sensing capabilities, a swarm of Rescue Rollers can help first-responders safely and effeciently locate and recover survivors.
