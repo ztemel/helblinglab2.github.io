@@ -68,7 +68,7 @@ We demonstrate grasping of daily objects using our hand prototypes and teleopera
 </div>
 </details>
 
-### Tunable Stiffness
+<!-- ### Tunable Stiffness
  <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/Tunable Stiffness Incline.png" alt="">
 
 <p style="text-align: justify;"> </p>
@@ -91,16 +91,16 @@ conditions.
 <summary markdown="1" style="display: list-item;">
 <h4 style="display: inline;">Relevant publications</h4>
 </summary>
-<div markdown="1">
+<div markdown="1"> -->
 <!-- {% include render_pub_list.liquid variable="projects" value="delta_robots" check="contains" %} -->
-</div>
-</details>
+<!-- </div>
+</details> -->
 
 
-### Delta Walker
+<!-- ### Delta Walker -->
  <!-- <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/Tunable Stiffness Inclie.jpg" alt=""> -->
 
-<p style="text-align: justify;"> </p>
+<!-- <p style="text-align: justify;"> </p>
 Delta Walker is a project that stemmed from the Delta Hand, inspired by the Addams Family Hand, Thing. 
 
 We aim to build a walking robot that is small, light, and easy to manufacture. Using linearly-actuated Delta robots with three degrees of freedom, we are investigating the walking gaits that can be created. We are experimenting with coupling link motions between delta robots and usage of a compliant material. Current work is focused on determining the possible gaits in simulation.
@@ -109,14 +109,14 @@ We aim to build a walking robot that is small, light, and easy to manufacture. U
 <summary markdown="1" style="display: list-item;">
 <h4 style="display: inline;">Relevant publications</h4>
 </summary>
-<div markdown="1">
+<div markdown="1"> -->
 <!-- {% include render_pub_list.liquid variable="projects" value="delta_robots" check="contains" %} -->
-</div>
-</details>
+<!-- </div>
+</details> -->
 
 
 ### Rescue Rollers
- <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/Rescue Rollers Photo.jpg" alt="">
+ <!-- <img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/Rescue Rollers Photo.jpg" alt=""> -->
 
 <p style="text-align: justify;"> </p>
 Rescue Rollers are centimeter scale robots designed to operate in unstructured environments. We are exploring how we can acheive roboust locomotion with robots of this size after natural disasters. By leveraging their size and a suite of sensing capabilities, a swarm of Rescue Rollers can help first-responders safely and effeciently locate and recover survivors.

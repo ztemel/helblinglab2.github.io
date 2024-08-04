@@ -17,41 +17,7 @@ subtitle: ZoomLab People
 	</div>
 </div>
 
-### Project Scientists
-
-<div class="container-fluid">
-<div class="row">
-  <div class="col-md-3 text-center">
-    <a href="https://www.linkedin.com/in/yi%C4%9Fit-meng%C3%BC%C3%A7-b88031160/">
-    <img class="img-responsive img-circle" src="/assets/img/headshots/Yigit.jpeg" alt="I'm Ben, wearing a casual green shirt with a blue blazer. I am smiling towards the camera with my hair messily swept to the right." />
-    Yiğit Mengüç</a>
-  </div>
-</div>
-</div>
-<!-- Commented out so easier to reinflate later
 ### Postdoctoral Scholars
-<div class="container-fluid">
-	<div class="row">
-<div class="col-md-3 text-center">
-	<a href="https://www.tescafitzgerald.com/">
-	<img class="img-responsive img-circle" src="/img/members/tesca.jpg" alt="I am Tesca. I have short, red hair that sticks up, and I am wearing a black blazer." />
-	Tesca Fitzgerald</a>
-</div>
-</div>
-</div> -->
-
-<!-- ### Postdoctoral Scholars
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-md-3 text-center">
-			<img class="img-responsive img-circle" src="/img/members/suresh.jpg" alt="I am Suresh. In this headshot I’m wearing a green casual shirt and a dark blue blazer. I’m smiling at the camera" />
-			<a href="https://jskumaar.github.io">Suresh Kumaar Jayaraman</a>
-		</div>
-	</div>
-</div> -->
-
-### PhD Students
-
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-3 text-center">
@@ -63,6 +29,13 @@ subtitle: ZoomLab People
 			<a href="https://www.ri.cmu.edu/ri-people/yisha-sha-yi/">
 			<img class="img-responsive img-circle" src="/assets/img/headshots/Yisha.png" alt="" />Sha Yi</a>
 		</div>
+	</div>
+</div>
+
+### PhD Students
+
+<div class="container-fluid">
+	<div class="row">
 		<div class="col-md-3 text-center">
 			<a href="https://si-lynnn.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Zilin.png" alt="Zilin Si" />Zilin Si</a>
 		</div>
@@ -106,12 +79,12 @@ subtitle: ZoomLab People
 <div class="col-md-3 text-center">
 	<a href="https://www.linkedin.com/in/emily-guo17/"><img class="img-responsive img-circle" src="/assets/img/headshots/Emily.jpeg" alt="Emily Guo" />Emily Guo</a>
 </div>
-<div class="col-md-3 text-center">
+<!-- <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="" />Max Kramer</a>
 </div>
 <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="" />Isaac Osei</a>
-</div>
+</div> -->
 <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Tiffany.jpg" alt="" />Tiffany Han</a>
 </div>
@@ -120,6 +93,10 @@ subtitle: ZoomLab People
 </div>
 <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Olivia.jpg" alt="" />Olivia Sobek</a>
+</div>
+
+<div class="col-md-3 text-center">
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="" />Vasilisa Ignatova</a>
 </div>
 
 </div>
@@ -152,5 +129,7 @@ subtitle: ZoomLab People
 - [Kylie Barber](https://www.linkedin.com/in/kylie-marie-barber/)
 - [Kaylie Barber](https://www.linkedin.com/in/kaylie-alexandra-barber/)
 - [Sam Alvares](https://www.linkedin.com/in/sam-alvares-178314172/)
+- [Max Kramer] ()
+- [Isaac Osei] ()
 <!-- ### Visiting Researchers: -->
 <!-- ### Collaborators -->
