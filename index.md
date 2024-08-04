@@ -36,8 +36,7 @@ Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/AYREiQgT7ZPnUuNR9"
-  data-title="LabPhotos"
-  data-description="9 new items added to shared album">
+  data-title="LabPhotos">
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNF7j9d2aIsjzCXlfbVxB3Dp4nPfC3XfNyNRJ8C8_HzabtJMg66Xj8JolLKCbLKPwES3oOHobo4fuEUK2cyfF4wwiMtl0wWeA2JNvHDHpJCZa6l5L9-=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMYcdgQ2e7j8L1SPNhjO_1yj168dP9Fo6V40Aal-FJ4ffXcMD2bVepVYWD7hKaAJ1M4ulPhTxrSSN0d_QA2oM-aC5BxlW9mSZDclRbf5hGMmVWfpJJX=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPjPaiZREe1hWyMiIrAx098VgzZUDBhUHWCcFoTxU3dOiRtrOWfm195MOyQKR2fiEHQKuh5_0ctfZchBuq6JQ2kZQL5N7m7cwCm3CF5gY2xO8BCMLGE=w1920-h1080"></object>

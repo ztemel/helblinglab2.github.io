@@ -76,9 +76,9 @@ subtitle: ZoomLab People
 
 <div class="container-fluid">
 <div class="row">
-<div class="col-md-3 text-center">
+<!-- <div class="col-md-3 text-center">
 	<a href="https://www.linkedin.com/in/emily-guo17/"><img class="img-responsive img-circle" src="/assets/img/headshots/Emily.jpeg" alt="Emily Guo" />Emily Guo</a>
-</div>
+</div> -->
 <!-- <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="" />Max Kramer</a>
 </div>
@@ -129,7 +129,8 @@ subtitle: ZoomLab People
 - [Kylie Barber](https://www.linkedin.com/in/kylie-marie-barber/)
 - [Kaylie Barber](https://www.linkedin.com/in/kaylie-alexandra-barber/)
 - [Sam Alvares](https://www.linkedin.com/in/sam-alvares-178314172/)
-- [Max Kramer] ()
-- [Isaac Osei] ()
+- [Emily Guo](https://www.linkedin.com/in/emily-guo17/)
+- [Max Kramer]()
+- [Isaac Osei]()
 <!-- ### Visiting Researchers: -->
 <!-- ### Collaborators -->

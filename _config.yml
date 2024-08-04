@@ -22,16 +22,16 @@ author: Zeynep Temel
 navbar-links:
   Team:
     - People: "people"
-    - Robots: "robots"
+    # - Robots: "robots"
   Research:
     - Current Research: "research"
     - Publications: "publications"
-  Courses:
-    - Undergrad: "16-235" 
-    - Graduate: "16-778"
+  # Courses:
+  #   - Undergrad: "16-235" 
+  #   - Graduate: "16-778"
   Resources:
     - WIKIs: "wikis"
-    - Github: "https://github.com/ZoomLabCMU"
+    # - Github: "https://github.com/ZoomLabCMU"
 
 ################
 # --- Logo --- #
