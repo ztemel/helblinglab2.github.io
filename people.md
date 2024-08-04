@@ -53,7 +53,7 @@ subtitle: ZoomLab People
 <div class="container-fluid">
 <div class="row">
 
-<div class="col-md-3 text-center">
+<!-- <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Tim.jpeg" alt="" />Timothy Mayer</a>
 </div>
 <div class="col-md-3 text-center">
@@ -64,7 +64,7 @@ subtitle: ZoomLab People
 </div>
 <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Jennifer.jpeg" alt="Jennifer Yang" />Jennifer Yang</a>
-</div>
+</div> -->
 <div class="col-md-3 text-center">
 	<a href="https://snibo.me"><img class="img-responsive img-circle" src="/assets/img/headshots/Sidney.jpg" alt="Sidney Nimako" />Sidney Nimako</a>
 </div>
@@ -119,6 +119,10 @@ subtitle: ZoomLab People
 - [David Ma](http://www.edayaxin.com/)
 
 ### Master Students:
+- [Jennifer Yang]()
+- [Chris Chang]()
+- [Timothy Mayer]()
+- [Yi Zhao]()
 - [Erin Wong](https://www.linkedin.com/in/erinwong/)
 - [Fukang Liu](https://fukangl.github.io/)
 - [Avi Rudich](https://www.linkedin.com/in/avi-rudich/)
