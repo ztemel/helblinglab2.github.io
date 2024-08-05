@@ -28,7 +28,7 @@ Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
 
 {% endfor %}
 
-
+<!-- https://www.publicalbum.org/blog/embedding-google-photos-albums -->
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/AYREiQgT7ZPnUuNR9"
