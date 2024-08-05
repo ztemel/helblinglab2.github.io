@@ -96,7 +96,7 @@ subtitle: ZoomLab People
 </div>
 
 <div class="col-md-3 text-center">
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="" />Vasilisa Ignatova</a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/vasilisa.jpg" alt="" />Vasilisa Ignatova</a>
 </div>
 
 </div>
