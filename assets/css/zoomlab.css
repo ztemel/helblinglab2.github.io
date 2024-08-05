@@ -3,3 +3,21 @@
     padding-bottom: 20px;
 }
 
+.news-with-image, .news-with-image-text {
+    display: flex;
+}
+
+.news-with-image {
+    flex-direction: row;
+    max-height: 40px;
+}
+
+.news-with-image-text {
+    flex-direction: column;
+}
+
+.news-with-image-image {
+    height: 38px;
+    aspect-ratio: 1;
+    border-radius: 4px;
+}
