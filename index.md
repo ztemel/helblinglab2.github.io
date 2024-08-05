@@ -24,11 +24,13 @@ Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
 #### News
 {% for item in site.data.news limit:5 %}
   {% if item.image == "" %}
-    - **{{ item.date }}**: {{ item.content }}
+    <p>{{ item.date }}</p>
+    <p>{{ item.content }}</p>
   {% else %}
     <div class="news-with-image">
       <div class="news-with-image-text">
-        **{{ item.date }}**: {{ item.content }}
+        <p>{{ item.date }}</p>
+        <p>{{ item.content }}</p>
       </div>
       <img class="news-with-image-image" src="{{ item.image }}" />
     </div>
