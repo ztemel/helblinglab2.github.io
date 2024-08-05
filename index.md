@@ -22,12 +22,12 @@ Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
 ---
 
 #### News
-{%raw %}
 {% for item in site.data.news limit:5 %}
   {% if item.image == "" %}
     <p>{{ item.date }}</p>
     <p>{{ item.content }}</p>
   {% else %}
+  {%raw %}
     <div class="news-with-image">
       <div class="news-with-image-text">
         <p>{{ item.date }}</p>
@@ -35,9 +35,9 @@ Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
       </div>
       <img class="news-with-image-image" src="{{ item.image }}" />
     </div>
+  {% endraw %}
   {% endif %}
 {% endfor %}
-{% endraw %}
 
 <!-- https://www.publicalbum.org/blog/embedding-google-photos-albums -->
 <!-- https://photos.app.goo.gl/AYREiQgT7ZPnUuNR9 -->
