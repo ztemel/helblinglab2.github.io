@@ -22,6 +22,7 @@ Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
 ---
 
 #### News
+{%raw %}
 {% for item in site.data.news limit:5 %}
   {% if item.image == "" %}
     <p>{{ item.date }}</p>
@@ -36,6 +37,7 @@ Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
     </div>
   {% endif %}
 {% endfor %}
+{% endraw %}
 
 <!-- https://www.publicalbum.org/blog/embedding-google-photos-albums -->
 <!-- https://photos.app.goo.gl/AYREiQgT7ZPnUuNR9 -->
