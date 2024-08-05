@@ -23,20 +23,16 @@ Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
 
 #### News
 {% for item in site.data.news limit:5 %}
-{% if item.image == "" %}
-
-- **{{ item.date }}**: {{ item.content }}
-{% else %}
-<div class="news-with-image">
-  <div class="news-with-image-text">
-    **{{ item.date }}**: {{ item.content }}
-  </div>
-  <img class="news-with-image-image" src={{item.image}} />
-</div>
-
-{% endif %}
-<!-- [pdf](/assets/pubs/{{ pub.filename }})-->
-
+  {% if item.image == "" %}
+    - **{{ item.date }}**: {{ item.content }}
+  {% else %}
+    <div class="news-with-image">
+      <div class="news-with-image-text">
+        **{{ item.date }}**: {{ item.content }}
+      </div>
+      <img class="news-with-image-image" src="{{ item.image }}" />
+    </div>
+  {% endif %}
 {% endfor %}
 
 <!-- https://www.publicalbum.org/blog/embedding-google-photos-albums -->
