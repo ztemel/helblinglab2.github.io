@@ -9,7 +9,7 @@
 
 .news-with-image {
     flex-direction: row;
-    max-height: 40px;
+    max-height: 300px;
 }
 
 .news-with-image-text {
@@ -17,7 +17,13 @@
 }
 
 .news-with-image-image {
-    height: 38px;
+    max-height: 256px;
     aspect-ratio: 1;
     border-radius: 4px;
+}
+
+.news-item {
+    padding: 10px;
+    border: 2px solid rgba(0,0,0, 0.2);
+    border-radius: 8px;
 }
