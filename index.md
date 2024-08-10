@@ -38,11 +38,11 @@ Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
         <p>
         {% endraw %}
         {{ item.content }}
-        {% raw %}
         </p>
       </div>
       <img class="news-with-image-image" src="{{ item.image }}" />
     </div>
+    
   {% endif %}
 {% endfor %}
 
