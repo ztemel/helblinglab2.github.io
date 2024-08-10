@@ -20,31 +20,26 @@ To get more information about research and facilities, [click here](/research).
 Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
 
 ---
-
 #### News
 {% for item in site.data.news limit:5 %}
-  {% if item.image == "" %}
-    {{ item.date }}
-    {{ item.content }}
-  {% else %}
-  {% raw %}
-    <div class="news-with-image">
-      <div class="news-with-image-text">
-        <p>
-  {% endraw %}
-        {{ item.date }}
-        {% raw %}
-        </p>
-        <p>
-        {% endraw %}
-        {{ item.content }}
-        </p>
+  <div class="news-item">
+    {% if item.image %}
+      <div class="news-with-image">
+        <div class="news-with-image-text">
+          <p>{{ item.date }}</p>
+          <p>{{ item.content }}</p>
+        </div>
+        <img class="news-with-image-image" src="{{ item.image }}" alt="News Image" />
       </div>
-      <img class="news-with-image-image" src="{{ item.image }}" />
-    </div>
-    
-  {% endif %}
+    {% else %}
+      <div class="news-without-image">
+        <p>{{ item.date }}</p>
+        <p>{{ item.content }}</p>
+      </div>
+    {% endif %}
+  </div>
 {% endfor %}
+
 
 <!-- https://www.publicalbum.org/blog/embedding-google-photos-albums -->
 <!-- https://photos.app.goo.gl/AYREiQgT7ZPnUuNR9 -->
