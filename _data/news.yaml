@@ -1,6 +1,5 @@
 - 'date': 26 July '24
   'content': 'Jennifer successfully defended her Masters thesis, "DeltaWalker: A Soft, Linearly Actuated Delta Quadruped Robot"'
-  'image': 'assets/img/hello_world.jpeg'
 - 'date': 24 July '24
   'content': 'Chris successfully defended his Masters thesis "Improving Lego Assembly with Vibro-Tactile Feedback"!'
 - 'date': 15 July '24
@@ -9,5 +8,6 @@
   'content': 'Spencer successfully defended his thesis! Congratulations Dr. Matonis!'
 - 'date': 17 May '24
   'content': 'Shashwat won "Best Poster" at the Unconventional Robots Workshop @ ICRA 2024'
+  'image': 'assets/img/news/Singh_Unconventional_robotics.jpg'
 - 'date': 29 Aug '23
   'content': 'A new website for Zoom Lab is born!'
