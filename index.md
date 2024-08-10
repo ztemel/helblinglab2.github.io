@@ -26,15 +26,15 @@ Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
     {% if item.image %}
       <div class="news-with-image">
         <div class="news-with-image-text">
-          <p>{{ item.date }}</p>
           <p>{{ item.content }}</p>
+          <p><em>{{ item.date }}</em></p>
         </div>
         <img class="news-with-image-image" src="{{ item.image }}" alt="News Image" />
       </div>
     {% else %}
       <div class="news-without-image">
-        <p>{{ item.date }}</p>
         <p>{{ item.content }}</p>
+        <p><em>{{ item.date }}</em></p>
       </div>
     {% endif %}
   </div>
