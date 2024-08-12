@@ -47,7 +47,7 @@ Springtails are tiny arthropods that crawl and jump. They jump by temporarily st
 <h4 style="display: inline;">Relevant publications</h4>
 </summary>
 <div markdown="1">
-<!-- {% include render_pub_list.liquid variable="projects" value="delta_robots" check="contains" %} -->
+{% include render_pub_list.liquid variable="projects" value="springtail" check="contains" %}
 </div>
 </details>
 

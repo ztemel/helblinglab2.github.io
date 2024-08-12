@@ -1,3 +1,12 @@
+- title: "Multi-modal jumping and crawling in an autonomous, springtail-inspired microrobot"
+  author: Shashwat Singh, Zeynep Temel, Ryan St. Pierre
+  booktitle: IEEE International Conference on Robotics and Automation (ICRA)
+  category: conference
+  year: 2023
+  projects: springtail
+  filename: springtail.pdf
+
+
 - title: "Linear Delta Arrays for Compliant Dexterous Distributed Manipulation"
   author: Sarvesh Patil, Tony Tao, Tess Hellebrekers, Oliver Kroemer, F. Zeynep Temel
   booktitle: IEEE International Conference on Robotics and Automation (ICRA)
