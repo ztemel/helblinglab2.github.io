@@ -43,7 +43,11 @@ subtitle: ZoomLab People
 			<a href="https://servo97.github.io/"><img class="img-responsive img-circle" src="/assets/img/headshots/Sarvesh.jpg" alt="Sarvesh Patil" />Sarvesh Patil</a>
 		</div>
 		<div class="col-md-3 text-center">
-			<a href="https://www.linkedin.com/in/shashwat-1singh/"><img class="img-responsive img-circle" src="/assets/img/headshots/Shashwat.jpg" alt="Sarvesh Patil" />Shashwat Singh</a>
+			<a href="https://www.linkedin.com/in/shashwat-1singh/"><img class="img-responsive img-circle" src="/assets/img/headshots/Shashwat.jpg" alt="Shashwat Singh" />Shashwat Singh</a>
+		</div>
+		<div class="col-md-3 text-center">
+			<!-- <a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Guadalupe.jpg" alt="Guadalupe Bernal" /> Guadalupe Bernal </a> -->
+			<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/ZoomLab.PNG" alt="Guadalupe Bernal" /> Guadalupe Bernal </a>
 		</div>
 	</div>
 </div>
@@ -96,7 +100,7 @@ subtitle: ZoomLab People
 </div>
 
 <div class="col-md-3 text-center">
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/vasilisa.jpg" alt="" />Vasilisa Ignatova</a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Vasilisa.jpg" alt="" />Vasilisa Ignatova</a>
 </div>
 
 </div>
