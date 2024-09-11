@@ -1,4 +1,9 @@
 testtttt
 **{{ pub.title | capitalize }}.**<br />
-{{ pub.author }}. *{{ pub.booktitle }}* {{ pub.year }}. {% if pub.filename != None %}[pdf](/assets/pubs/{{ pub.filename }}) {% endif %}
+{{ pub.author }}. *{{ pub.booktitle }}* {{ pub.year }}. 
+{% if pub.filename != None %}
+[pdf](/assets/pubs/{{ pub.filename }}) 
+{% elsif pub.url != None %}
+[pdf]({{ pub.url }}) 
+{% endif %}
 

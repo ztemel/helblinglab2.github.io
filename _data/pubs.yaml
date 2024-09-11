@@ -1,7 +1,7 @@
 - author: Zilin Si and Kevin Lee Zhang and Zeynep Temel and Oliver Kroemer
   booktitle: arXiv preprint arXiv:2405.18804, 2024
   category: workshop
-  filename: https://arxiv.org/abs/2405.18804
+  url: https://arxiv.org/abs/2405.18804
   projects: ''
   title: 'Tilde: Teleoperation for Dexterous In-Hand Manipulation Learning with a
     DeltaHand'
@@ -10,7 +10,7 @@
   booktitle: 2024 IEEE International Conference on Robotics and Automation (ICRA),
     5999-6005, 2024
   category: conference
-  filename: https://ieeexplore.ieee.org/abstract/document/10610130/
+  url: https://ieeexplore.ieee.org/abstract/document/10610130/
   projects: ''
   title: Multi-modal jumping and crawling in an autonomous, springtail-inspired microrobot
   year: 2024
@@ -18,7 +18,7 @@
     Zeynep Temel and Zackory Erickson
   booktitle: arXiv preprint arXiv:2405.02772, 2024
   category: workshop
-  filename: https://arxiv.org/abs/2405.02772
+  url: https://arxiv.org/abs/2405.02772
   projects: ''
   title: 'SkinGrip: An Adaptive Soft Robotic Manipulator with Capacitive Sensing for
     Whole-Limb Bathing Assistance'
@@ -26,7 +26,7 @@
 - author: Zilin Si and Kevin Zhang and Oliver Kroemer and F Zeynep Temel
   booktitle: IEEE Robotics and Automation Letters, 2024
   category: journal
-  filename: https://ieeexplore.ieee.org/abstract/document/10380685/
+  url: https://ieeexplore.ieee.org/abstract/document/10380685/
   projects: ''
   title: 'DELTAHANDS: A Synergistic Dexterous Hand Framework Based on Delta Robots'
   year: 2024
@@ -34,7 +34,7 @@
     T Mason
   booktitle: IEEE Robotics and Automation Letters 9 (1), 390-397, 2023
   category: journal
-  filename: https://ieeexplore.ieee.org/abstract/document/10319720/
+  url: https://ieeexplore.ieee.org/abstract/document/10319720/
   projects: ''
   title: Enhancing dexterity in robotic manipulation via hierarchical contact exploration
   year: 2023
@@ -42,14 +42,14 @@
     and Zeynep Temel and Christopher J Bettinger
   booktitle: ACS Applied Polymer Materials 5 (8), 6288-6295, 2023
   category: journal
-  filename: https://pubs.acs.org/doi/abs/10.1021/acsapm.3c00919
+  url: https://pubs.acs.org/doi/abs/10.1021/acsapm.3c00919
   projects: ''
   title: Edible Origami Actuators Using Gelatin-Based Bioplastics
   year: 2023
 - author: Sha Yi and Katia Sycara and Zeynep Temel
   booktitle: arXiv preprint arXiv:2306.16265, 2023
   category: workshop
-  filename: https://arxiv.org/abs/2306.16265
+  url: https://arxiv.org/abs/2306.16265
   projects: ''
   title: Reconfigurable robot control using flexible coupling mechanisms
   year: 2023
@@ -57,14 +57,14 @@
     F Zeynep Temel
   booktitle: "2023 IEEE International Conference on Robotics and Automation (ICRA)"
   category: conference
-  filename: https://ieeexplore.ieee.org/abstract/document/10160578/
+  url: https://ieeexplore.ieee.org/abstract/document/10160578/
   projects: ''
   title: Linear delta arrays for compliant dexterous distributed manipulation
   year: 2023
 - author: Fukang Liu and Vaidehi Patil and Zackory Erickson and Zeynep Temel
   booktitle: "2022 IEEE International Conference on Robotics and Biomimetics"
   category: conference
-  filename: https://ieeexplore.ieee.org/abstract/document/10011741/
+  url: https://ieeexplore.ieee.org/abstract/document/10011741/
   projects: ''
   title: Characterization of a Meso-Scale Wearable Robot for Bathing Assistance
   year: 2022
@@ -72,7 +72,7 @@
     and F Zeynep Temel
   booktitle: "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems"
   category: conference
-  filename: https://ieeexplore.ieee.org/abstract/document/9981257/
+  url: https://ieeexplore.ieee.org/abstract/document/9981257/
   projects: ''
   title: 'Deltaz: An accessible compliant delta robot manipulator for research and
     education'
@@ -81,14 +81,14 @@
     F Zeynep Temel
   booktitle: arXiv preprint arXiv:2206.04596, 2022
   category: workshop
-  filename: https://arxiv.org/abs/2206.04596
+  url: https://arxiv.org/abs/2206.04596
   projects: ''
   title: Linear Delta Arrays for Compliant Dexterous Distributed Manipulation
   year: 2022
 - author: Sha Yi and Zeynep Temel and Katia Sycara
   booktitle: 2022 International Conference on Robotics and Automation (ICRA)
   category: conference
-  filename: https://ieeexplore.ieee.org/abstract/document/9812115/
+  url: https://ieeexplore.ieee.org/abstract/document/9812115/
   projects: ''
   title: Configuration control for physical coupling of heterogeneous robot swarms
   year: 2022
@@ -98,12 +98,12 @@
   category: conference
   year: 2022
   projects: delta_robots
-  filename: deltaz.pdf
+  url: deltaz.pdf
 - author: Pragna Mannam and Avi Rudich and Kevin L Zhang and Manuela Veloso and Oliver
     Kroemer and Zeynep Temel
   booktitle: Robotics science and systems, 2021
   category: conference
-  filename: https://par.nsf.gov/biblio/10296760
+  url: https://par.nsf.gov/biblio/10296760
   projects: ''
   title: A low-cost compliant gripper using cooperative mini-delta robots for dexterous
     manipulation
@@ -112,14 +112,14 @@
   booktitle: 2021 IEEE International Conference on Robotics and Automation (ICRA),
     8742-8748, 2021
   category: conference
-  filename: https://ieeexplore.ieee.org/abstract/document/9561610/
+  url: https://ieeexplore.ieee.org/abstract/document/9561610/
   projects: ''
   title: 'Puzzlebots: Physical coupling of robot swarms'
   year: 2021
 - author: Pragna Mannam and Oliver Kroemer and F Zeynep Temel
   booktitle: 'Experimental Robotics: The 17th International Symposium, 75-84, 2021'
   category: workshop
-  filename: https://link.springer.com/chapter/10.1007/978-3-030-71151-1_7
+  url: https://link.springer.com/chapter/10.1007/978-3-030-71151-1_7
   projects: ''
   title: Characterization of compliant parallelogram links for 3D-printed delta manipulators
   year: 2021
