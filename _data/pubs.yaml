@@ -25,7 +25,7 @@
   year: 2024
 - author: Zilin Si and Kevin Zhang and Oliver Kroemer and F Zeynep Temel
   booktitle: IEEE Robotics and Automation Letters, 2024
-  category: other
+  category: journal
   filename: https://ieeexplore.ieee.org/abstract/document/10380685/
   projects: ''
   title: 'DELTAHANDS: A Synergistic Dexterous Hand Framework Based on Delta Robots'
@@ -33,7 +33,7 @@
 - author: Xianyi Cheng and Sarvesh Patil and Zeynep Temel and Oliver Kroemer and Matthew
     T Mason
   booktitle: IEEE Robotics and Automation Letters 9 (1), 390-397, 2023
-  category: other
+  category: journal
   filename: https://ieeexplore.ieee.org/abstract/document/10319720/
   projects: ''
   title: Enhancing dexterity in robotic manipulation via hierarchical contact exploration
@@ -41,7 +41,7 @@
 - author: Spencer J Matonis and Bozhong Zhuang and Ailla F Bishop and Durva A Naik
     and Zeynep Temel and Christopher J Bettinger
   booktitle: ACS Applied Polymer Materials 5 (8), 6288-6295, 2023
-  category: other
+  category: journal
   filename: https://pubs.acs.org/doi/abs/10.1021/acsapm.3c00919
   projects: ''
   title: Edible Origami Actuators Using Gelatin-Based Bioplastics
@@ -102,7 +102,7 @@
 - author: Pragna Mannam and Avi Rudich and Kevin L Zhang and Manuela Veloso and Oliver
     Kroemer and Zeynep Temel
   booktitle: Robotics science and systems, 2021
-  category: other
+  category: conference
   filename: https://par.nsf.gov/biblio/10296760
   projects: ''
   title: A low-cost compliant gripper using cooperative mini-delta robots for dexterous
@@ -118,7 +118,7 @@
   year: 2021
 - author: Pragna Mannam and Oliver Kroemer and F Zeynep Temel
   booktitle: 'Experimental Robotics: The 17th International Symposium, 75-84, 2021'
-  category: other
+  category: workshop
   filename: https://link.springer.com/chapter/10.1007/978-3-030-71151-1_7
   projects: ''
   title: Characterization of compliant parallelogram links for 3D-printed delta manipulators
