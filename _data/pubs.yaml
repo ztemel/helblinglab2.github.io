@@ -1,6 +1,6 @@
 - author: Zilin Si and Kevin Lee Zhang and Zeynep Temel and Oliver Kroemer
   booktitle: arXiv preprint arXiv:2405.18804, 2024
-  category: other
+  category: workshop
   filename: https://arxiv.org/abs/2405.18804
   projects: ''
   title: 'Tilde: Teleoperation for Dexterous In-Hand Manipulation Learning with a
@@ -17,7 +17,7 @@
 - author: Fukang Liu and Kavya Puthuveetil and Akhil Padmanabha and Karan Khokar and
     Zeynep Temel and Zackory Erickson
   booktitle: arXiv preprint arXiv:2405.02772, 2024
-  category: other
+  category: workshop
   filename: https://arxiv.org/abs/2405.02772
   projects: ''
   title: 'SkinGrip: An Adaptive Soft Robotic Manipulator with Capacitive Sensing for
@@ -48,7 +48,7 @@
   year: 2023
 - author: Sha Yi and Katia Sycara and Zeynep Temel
   booktitle: arXiv preprint arXiv:2306.16265, 2023
-  category: other
+  category: workshop
   filename: https://arxiv.org/abs/2306.16265
   projects: ''
   title: Reconfigurable robot control using flexible coupling mechanisms
@@ -80,7 +80,7 @@
 - author: Sarvesh Patil and Tony Tao and Tess Hellebrekers and Oliver Kroemer and
     F Zeynep Temel
   booktitle: arXiv preprint arXiv:2206.04596, 2022
-  category: other
+  category: workshop
   filename: https://arxiv.org/abs/2206.04596
   projects: ''
   title: Linear Delta Arrays for Compliant Dexterous Distributed Manipulation
