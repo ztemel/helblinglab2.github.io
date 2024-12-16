@@ -2,7 +2,7 @@
 layout: home
 title: Helbling Robotics Lab
 #<!-- subtitle: Compliant Systems for Mechanical Intelligence -->
-
+cover-img: "assets/img/robobeesliding.mov"
 ---
 
 ## About Us
