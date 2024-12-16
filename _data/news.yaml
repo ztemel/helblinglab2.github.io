@@ -1,16 +1,8 @@
-- 'date': 9 September '24
-  'content': 'Welcome to Fokion and Guadalupe our new PhD Students'
-- 'date': 26 July '24
-  'content': 'Jennifer successfully defended her Masters thesis, "DeltaWalker: A Soft, Linearly Actuated Delta Quadruped Robot"'
-- 'date': 24 July '24
-  'content': 'Chris successfully defended his Masters thesis "Improving Lego Assembly with Vibro-Tactile Feedback"!'
-  'image': 'assets/img/news/ChrisThesisDefense.jpeg'
-- 'date': 15 July '24
-  'content': 'Tilde: Teleoperation for Dexterous In-Hand Manipulation Learning with a DeltaHand wins Best Paper Award in Dexterous Manipulation workshop @ RSS 2024'
-- 'date': 8 July '24
-  'content': 'Spencer successfully defended his thesis! Congratulations Dr. Matonis!'
-- 'date': 17 May '24
-  'content': 'Shashwat won "Best Poster" at the Unconventional Robots Workshop @ ICRA 2024'
-  'image': 'assets/img/news/Singh_Unconventional_robotics.jpg'
-- 'date': 29 Aug '23
-  'content': 'A new website for Zoom Lab is born!'
+- 'date': 14 October '24
+  'content': 'Derin successfully presented his IROS paper "Absolute Pose Estimation for a mm-scale vision system"'
+- 'date': 1 September '24
+  'content': 'Welcome to Cheney Zhang, our new MAE MS student!'
+- 'date': 29 July '24
+  'content': 'Farrell gave a plenary talk at MARSS 2024 "Challenges and opportunities for autonomous cm-scale vehicles'
+- 'date': 15 May '24
+  'content': 'Harry's paper on "High-Speed Interfacial Flight of an insect-scale robot" was presented at ICRA 2024"'
