@@ -73,7 +73,7 @@ subtitle: Lab Team
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Nicole Li.jpg" alt="Nicole Li" />Nicole Li</a>
 </div> 
  <div class="col-md-3 text-center">
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/Reva Nair.jpg" alt="Reva Nair" />Reva Nair</a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Reva Nair.jpg" alt="Reva Nair" />Reva Nair</a>
 </div>
 
 </div>
