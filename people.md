@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "People"
-subtitle: ZoomLab People
+subtitle: Helbling Lab People
 ---
 
 ## Current Members
@@ -12,7 +12,7 @@ subtitle: ZoomLab People
 	<div class="row">
 		<div class="col-md-4 text-center">
 			<img class="img-responsive img-circle" src="/assets/img/headshots/Zeynep.png" alt="< ENTER DESCRIPTION >" />
-			<a href="https://www.ri.cmu.edu/ri-faculty/zeynep-temel/">Zeynep Temel</a>
+			<a href="https://www.engineering.cornell.edu/spotlights/welcome-farrell-helbling">Farrell Helbling</a>
 		</div>
 	</div>
 </div>
