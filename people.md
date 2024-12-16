@@ -11,7 +11,7 @@ subtitle: Helbling Lab People
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-4 text-center">
-			<img class="img-responsive img-circle" src="/assets/img/headshots/Zeynep.png" alt="< ENTER DESCRIPTION >" />
+			<img class="img-responsive img-circle" src="/assets/img/headshots/FarrellHS.png" alt="< ENTER DESCRIPTION >" />
 			<a href="https://www.engineering.cornell.edu/spotlights/welcome-farrell-helbling">Farrell Helbling</a>
 		</div>
 	</div>
