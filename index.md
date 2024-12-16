@@ -13,7 +13,7 @@ title: Helbling Robotics Lab
 
 We are a part of the [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) at [Cornell University](https://cornell.edu). 
 
-If you are looking to join us, [click here]().
+If you are looking to join us, [click here](efh45@cornell.edu).
 <!-- We are looking to expand our team. If you're interested, read about our [open positions]()!  -->
 To get more information about research and facilities, [click here](/research).
 
