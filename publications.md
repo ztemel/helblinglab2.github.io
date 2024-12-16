@@ -92,13 +92,13 @@ section {
 
 
 
- <section id="Journal">
+<!-- <section id="Journal">
   &nbsp;
     <h2>Journal Publications</h2>
     <div markdown="1">
 {% include render_pub_list.liquid variable="category" value="journal" check="==" %}
 </div>
-</section>
+</section> 
 
 
 	 <section id="Conferences">
@@ -134,7 +134,7 @@ section {
 </main>
 
 
-
+-->
 
 
 <script>
