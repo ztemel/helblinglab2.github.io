@@ -5,8 +5,8 @@ title: Research
 
 
 
-### Delta Arrays
-<img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/delta_arrays.jpg" alt="">
+### Locomotion Strategies
+<img align="left" width="200" height="200" style="margin:20px 20px" src="/assets/img/research/gammabot_skating.jpg" alt="">
 
 <p style="text-align: justify;"> </p>
 
@@ -14,9 +14,6 @@ Dexterous manipulation capabilities of end-effectors afford us a wide range of s
 
 We present an array of 64 linear soft delta robots in an 8x8 hexagonal grid, for the development of new manipulation paradigms that can learn complex prehensile and non-prehensile skills in the real world. The 3D-printed soft TPU links provide mechanical compliance and allow collisions without harming the end-effector. We demonstrate dexterous manipulation capabilities of the delta array using reinforcement learning while leveraging the compliance to not break the end-effectors. Our evaluations show that the resulting 192 DoF-compliant robot is capable of performing various coordinated distributed manipulations of a variety of objects, including translation, alignment, prehensile squeezing, lifting, and grasping.
 
-For more information, please contact [Sarvesh](https://servo97.github.io).
-
-<!-- Check out our CHI 2020 [video presentation](https://youtu.be/ILgJDQSlgYI) to learn more. -->
 
 <details>
 <summary markdown="1" style="display: list-item;">
