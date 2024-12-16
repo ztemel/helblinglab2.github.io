@@ -34,4 +34,4 @@ Piezoelectric bimorph actuators are the motors of choice for cm-scale robotics p
 <p style="text-align: justify;"> </p>
 The lab has a state-of-the-art design and fabrication space for cm-scale devices, that includes a high-precision laser cutter (LPKF, Protolaser U4), a benchtop hydraulic press (Carver, CH) and thermal processing equipment to create laminate devices.  We have an experimental arena equipped with a Real-time target machine (Speedgoat Gmbh, Baseline) to prototype robot controllers, generating actuator drive signals based on position and orientation feedback from six motion capture cameras (Vicon, Vantage V5). We use high speed videography (Phantom, VEO710L) and high-resolution force sensors (ATI six-axis F/T sensor, Nano17Ti) to characterize actuators and mechanisms.
 
-<img align="left" width="166" height="220" style="margin:20px 20px" src="/assets/img/research/lab.png" alt="">
+<img align="left" width="906" height="220" style="margin:20px 20px" src="/assets/img/research/lab.png" alt="">
