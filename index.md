@@ -1,23 +1,23 @@
 ---
 layout: home
-title: ZOOM LAB CMU
-subtitle: Compliant Systems for Mechanical Intelligence
+title: Helbling Robotics Lab
+<!-- subtitle: Compliant Systems for Mechanical Intelligence -->
 
 ---
 
 ## About Us
 
 <p style="text-align: justify;"> 
-    Founded in late 2019, our vision at Zoom Lab is to create robots that can mechanically conform to the environment or objects that they interact with to alleviate the need for high-speed, high-accuracy, and high-precision controllers. We pursue this goal by developing compliant mechanisms for manipulators and robots, focusing on bio-inspiration and unconventional materials, and engaging with the community to increase interest in science and engineering.
+    Helbling lab focuses on autonomous insect-scale robot platforms. We are working toward having these autonomous, centimeter-scale platforms thinking about the mechanical design, how to power these platforms, how to get these things to communicate with users or with each other, and sensors. We also find solutions for aseembling them into a robust system that can travel across various terrains and operate a good amount of time without needing to recharge.
 </p>
 
-We are a part of the [Robotics Insitute](https://ri.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). 
+We are a part of the [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) at [Cornell University](https://cornell.edu). 
 
 If you are looking to join us, [click here]().
 <!-- We are looking to expand our team. If you're interested, read about our [open positions]()!  -->
 To get more information about research and facilities, [click here](/research).
 
-Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
+Feel free to stop by our lab in Phillips 328 to see our robots in action!
 
 ---
 #### News
