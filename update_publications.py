@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import markdown
 
 def fetch_publications(scholar_id):
-    url = f"https://scholar.google.com/citations?hl=en&user=Pwd7hJYAAAAJ&view_op=list_works&sortby=pubdate"
+    url = f"https://scholar.google.com/citations?hl=en&authuser=1&user=Pwd7hJYAAAAJ"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
