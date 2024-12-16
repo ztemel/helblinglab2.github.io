@@ -23,7 +23,7 @@ In an autonomous deployment, robots will need perceive their own state (proprioc
 
 
 ### Power Electronics
-<img align="left" width="220" height="292" style="margin:20px 20px" src="/assets/img/research/Nature_cover.png" alt="">
+<img align="left" width="166" height="220" style="margin:20px 20px" src="/assets/img/research/Nature_cover.png" alt="">
 
 <p style="text-align: justify;"> </p>
 Piezoelectric bimorph actuators are the motors of choice for cm-scale robotics platforms due to their high bandwidth and high power densities. To obtain the necessary displacements, these actuators are driven with high fields. Specifically, we send time-varying signals at a frequency of approximately 170Hz and a unipolar amplitude of 200V. We design low mass, high efficiency electronics to step-up the voltage and generate high-voltage, time-varying signals from low-voltage energy sources (e.g., solar cells or batteries). Combining these custom drive electronics and solar cells, we demonstrated the first untethered flight of an insect-scale flapping-wing robot, published in Nature. We continue to develop new designs to perform energy-saving techniques to enable longer mission times.
