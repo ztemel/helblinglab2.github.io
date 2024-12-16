@@ -69,10 +69,10 @@ subtitle: Lab Team
 
 <div class="container-fluid">
 <div class="row">
-<!-- <div class="col-md-3 text-center">
+	<div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/Nicole Li.jpg" alt="Nicole Li" />Nicole Li</a>
-</div> -->
-<!-- <div class="col-md-3 text-center">
+</div> 
+ <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/logo/Reva Nair.jpg" alt="Reva Nair" />Reva Nair</a>
 </div>
 
