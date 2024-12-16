@@ -1,138 +1,115 @@
-
-title: Pitch and yaw control of a robotic insect using an onboard magnetometer
+- title: Pitch and yaw control of a robotic insect using an onboard magnetometer
   author: Helbling, E Farrell and Fuller, Sawyer B and Wood, Robert J
   booktitle: 2014 IEEE international conference on robotics and automation (ICRA)
   year: 2014
- Category: workshop
-
-  title: Using a MEMS gyroscope to stabilize the attitude of a fly-sized hovering robot
+  category: workshop
+- title: Using a MEMS gyroscope to stabilize the attitude of a fly-sized hovering robot
   author: Fuller, Sawyer B and Helbling, E Farrell and Chirarattananon, Pakpong and Wood, Robert J
-  booktitle: IMAV 2014: International Micro Air Vehicle Conference and Competition
+  booktitle: IMAV 2014 International Micro Air Vehicle Conference and Competition
   year: 2014
-Category: workshop
-
-title: A power electronics unit to drive piezoelectric actuators for flying microrobots
-author: Lok, Mario and Zhang, Xuan and Helbling, Elizabeth Farrell and Wood, Robert and Brooks, David and Wei, Gu-Yeon
-booktitle: 2015 IEEE Custom Integrated Circuits Conference (CICC)
-year: 2015
-Category: workshop
-
-title: Altitude Estimation and Control of an Insect-Scale Robot with an Onboard Proximity Sensor
-author: Helbling, E Farrell and Fuller, Sawyer B and Wood, Robert J
-booktitle: Proceedings of the International Symposium on Robotics Research (ISRR)
-year: 2015
-Category: workshop
-
-title: Hybrid aerial and aquatic locomotion in an at-scale robotic insect
-author: Chen, Yufeng and Helbling, E Farrell and Gravish, Nick and Ma, Kevin and Wood, Robert J
-booktitle: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-year: 2015
-Category: workshop
-
-title: Dynamics and flight control of a flapping-wing robotic insect in the presence of wind gusts
-author: Chirarattananon, Pakpong and Chen, Yufeng and Helbling, E Farrell and Ma, Kevin Y and Cheng, Richard and Wood, Robert J
-booktitle: Interface focus
-year: 2017
-Category: workshop
-
-title: A low mass power electronics unit to drive piezoelectric actuators for flying microrobots
-author: Lok, Mario and Helbling, Elizabeth Farrell and Zhang, Xuan and Wood, Robert and Brooks, David and Wei, Gu-Yeon
-booktitle: IEEE Transactions on Power Electronics
-year: 2017
-Category: workshop
-
-title: An actuated gaze stabilization platform for a flapping-wing microrobot
-author: Mange, Sylvain and Helbling, E Farrell and Gravish, Nick and Wood, Robert J
-booktitle: 2017 IEEE International Conference on Robotics and Automation (ICRA)
-year: 2017
-Category: workshop
-
-title: A biologically inspired, flapping-wing, hybrid aerial-aquatic microrobot
-author: Chen, Yufeng and Wang, Hongqiang and Helbling, E Farrell and Jafferis, Noah T and Zufferey, Raphael and Ong, Aaron and Ma, Kevin and Gravish, Nicholas and Chirarattananon, Pakpong and Kovac, Mirko and Wood, Robert J
-booktitle: Science Robotics
-year: 2017
-Category: workshop
-
-title: A review of propulsion, power, and control architectures for insect-scale flapping-wing vehicles
-author: Farrell Helbling, E and Wood, Robert J
-booktitle: Applied Mechanics Reviews
-year: 2018
-Category: workshop
-
-title: Power and control autonomy for high-speed locomotion with an insect-scale legged robot
-author: Goldberg, Benjamin and Zufferey, Raphael and Doshi, Neel and Helbling, Elizabeth Farrell and Whittredge, Griffin and Kovac, Mirko and Wood, Robert J
-booktitle: IEEE Robotics and Automation Letters
-year: 2018
-Category: workshop
-
-title: A wasp-inspired collapsible wing hinge dampens collision-induced body torques in a microrobot
-author: Mountcastle, AM and Pai, SN and Helbling, EF and Wood, RJ
-booktitle: INTEGRATIVE AND COMPARATIVE BIOLOGY
-year: 2018
-Category: workshop
-
-title: Untethered flight of an insect-sized flapping-wing microscale aerial vehicle
-author: Jafferis, Noah T and Helbling, E Farrell and Karpelson, Michael and Wood, Robert J
-booktitle: Nature
-year: 2019
-Category: workshop
-
-title: Yaw torque authority for a flapping-wing micro-aerial vehicle
-author: Steinmeyer, Rebecca and Nak-seung, P Hyun and Helbling, E Farrell and Wood, Robert J
-booktitle: 2019 International Conference on Robotics and Automation (ICRA)
-year: 2019
-Category: workshop
-
-title: Controlled flight of a microrobot powered by soft artificial muscles
-author: Chen, Yufeng and Zhao, Huichan and Mao, Jie and Chirarattananon, Pakpong and Helbling, E Farrell and Hyun, Nak-seung Patrick and Clarke, David R and Wood, Robert J
-booktitle: Nature
-year: 2019
-Category: workshop
-
-title: Sensing and Power Autonomy for an Insect-Scale Flapping-Wing Robot
-author: Helbling, E Farrell
-booktitle: Harvard PhD Thesis	
-year: 2019
-Category: workshop
-
-title: Scaling down an insect-size microrobot, HAMR-VI into HAMR-Jr
-author: Jayaram, Kaushik and Shum, Jennifer and Castellanos, Samantha and Helbling, E Farrell and Wood, Robert J
-booktitle: 2020 IEEE International Conference on Robotics and Automation (ICRA)
-year: 2020
-Category: workshop
-
-title: Full flight envelope and trim map of flapping-wing micro aerial vehicles
-author: Clawson, Taylor S and Ferrari, Silvia and Farrell Helbling, E and Wood, Robert J and Fu, Bo and Ruina, Andy and Wang, Z Jane
-booktitle: Journal of Guidance, Control, and Dynamics
-year: 2020
-Category: workshop
-
-title: Seed-inspired vehicles take flight
-author: Helbling, E Farrell
-booktitle: Nature News and Views 
-year: 2021
-Category: workshop
-
-title: Powerful, soft combustion actuators for insect-scale robots
-author: Aubin, Cameron A and Heisser, Ronald H and Peretz, Ofek and Timko, Julia and Lo, Jacqueline and Helbling, E Farrell and Sobhani, Sadaf and Gat, Amir D and Shepherd, Robert F
-booktitle: Science 
-year: 2023
-Category: workshop
-
-title: High-speed interfacial flight of an insect-scale robot
-author: Gao, Hang and Jung, Sunghwan and Helbling, E Farrell
-booktitle: 2024 IEEE International Conference on Robotics and Automation (ICRA)
-year: 2024
-Category: workshop
-
-title: Absolute pose estimation for a mm-scale vision system
-author: Ozturk, Derin and Wang, Zilin and Helbling, E Farrell
-booktitle: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-year: 2024
-Category: workshop
-
-title: Hardware-in-the-Loop for Characterization of Embedded State Estimation for Flying Microrobots
-author: Naveen, Aryan and Morris, Jalil and Chan, Christian and Mhrous, Daniel and Helbling, E Farrell and Hyun, Nak-Seung Patrick and Hills, Gage and Wood, Robert J
-booktitle: arXiv preprint arXiv:2411.06382
-year: 2024
-Category: workshop
+  category: workshop
+- title: A power electronics unit to drive piezoelectric actuators for flying microrobots
+  author: Lok, Mario and Zhang, Xuan and Helbling, Elizabeth Farrell and Wood, Robert and Brooks, David and Wei, Gu-Yeon
+  booktitle: 2015 IEEE Custom Integrated Circuits Conference (CICC)
+  year: 2015
+  category: workshop
+- title: Altitude Estimation and Control of an Insect-Scale Robot with an Onboard Proximity Sensor
+  author: Helbling, E Farrell and Fuller, Sawyer B and Wood, Robert J
+  booktitle: Proceedings of the International Symposium on Robotics Research (ISRR)
+  year: 2015
+  category: workshop
+- title: Hybrid aerial and aquatic locomotion in an at-scale robotic insect
+  author: Chen, Yufeng and Helbling, E Farrell and Gravish, Nick and Ma, Kevin and Wood, Robert J
+  booktitle: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  year: 2015
+  category: workshop
+- title: Dynamics and flight control of a flapping-wing robotic insect in the presence of wind gusts
+  author: Chirarattananon, Pakpong and Chen, Yufeng and Helbling, E Farrell and Ma, Kevin Y and Cheng, Richard and Wood, Robert J
+  booktitle: Interface focus
+  year: 2017
+  category: workshop
+- title: A low mass power electronics unit to drive piezoelectric actuators for flying microrobots
+  author: Lok, Mario and Helbling, Elizabeth Farrell and Zhang, Xuan and Wood, Robert and Brooks, David and Wei, Gu-Yeon
+  booktitle: IEEE Transactions on Power Electronics
+  year: 2017
+  category: workshop
+- title: An actuated gaze stabilization platform for a flapping-wing microrobot
+  author: Mange, Sylvain and Helbling, E Farrell and Gravish, Nick and Wood, Robert J
+  booktitle: 2017 IEEE International Conference on Robotics and Automation (ICRA)
+  year: 2017
+  category: workshop
+- title: A biologically inspired, flapping-wing, hybrid aerial-aquatic microrobot
+  author: Chen, Yufeng and Wang, Hongqiang and Helbling, E Farrell and Jafferis, Noah T and Zufferey, Raphael and Ong, Aaron and Ma, Kevin and Gravish, Nicholas and Chirarattananon, Pakpong and Kovac, Mirko and Wood, Robert J
+  booktitle: Science Robotics
+  year: 2017
+  category: workshop
+- title: A review of propulsion, power, and control architectures for insect-scale flapping-wing vehicles
+  author: Farrell Helbling, E and Wood, Robert J
+  booktitle: Applied Mechanics Reviews
+  year: 2018
+  category: workshop
+- title: Power and control autonomy for high-speed locomotion with an insect-scale legged robot
+  author: Goldberg, Benjamin and Zufferey, Raphael and Doshi, Neel and Helbling, Elizabeth Farrell and Whittredge, Griffin and Kovac, Mirko and Wood, Robert J
+  booktitle: IEEE Robotics and Automation Letters
+  year: 2018
+  category: workshop
+- title: A wasp-inspired collapsible wing hinge dampens collision-induced body torques in a microrobot
+  author: Mountcastle, AM and Pai, SN and Helbling, EF and Wood, RJ
+  booktitle: INTEGRATIVE AND COMPARATIVE BIOLOGY
+  year: 2018
+  category: workshop
+- title: Untethered flight of an insect-sized flapping-wing microscale aerial vehicle
+  author: Jafferis, Noah T and Helbling, E Farrell and Karpelson, Michael and Wood, Robert J
+  booktitle: Nature
+  year: 2019
+  category: workshop
+- title: Yaw torque authority for a flapping-wing micro-aerial vehicle
+  author: Steinmeyer, Rebecca and Nak-seung, P Hyun and Helbling, E Farrell and Wood, Robert J
+  booktitle: 2019 International Conference on Robotics and Automation (ICRA)
+  year: 2019
+  category: workshop
+- title: Controlled flight of a microrobot powered by soft artificial muscles
+  author: Chen, Yufeng and Zhao, Huichan and Mao, Jie and Chirarattananon, Pakpong and Helbling, E Farrell and Hyun, Nak-seung Patrick and Clarke, David R and Wood, Robert J
+  booktitle: Nature
+  year: 2019
+  category: workshop
+- title: Sensing and Power Autonomy for an Insect-Scale Flapping-Wing Robot
+  author: Helbling, E Farrell
+  booktitle: Harvard PhD Thesis	
+  year: 2019
+  category: workshop
+- title: Scaling down an insect-size microrobot, HAMR-VI into HAMR-Jr
+  author: Jayaram, Kaushik and Shum, Jennifer and Castellanos, Samantha and Helbling, E Farrell and Wood, Robert J
+  booktitle: 2020 IEEE International Conference on Robotics and Automation (ICRA)
+  year: 2020
+  category: workshop
+- title: Full flight envelope and trim map of flapping-wing micro aerial vehicles
+  author: Clawson, Taylor S and Ferrari, Silvia and Farrell Helbling, E and Wood, Robert J and Fu, Bo and Ruina, Andy and Wang, Z Jane
+  booktitle: Journal of Guidance, Control, and Dynamics
+  year: 2020
+  category: workshop
+- title: Seed-inspired vehicles take flight
+  author: Helbling, E Farrell
+  booktitle: Nature News and Views 
+  year: 2021
+  category: workshop
+- title: Powerful, soft combustion actuators for insect-scale robots
+  author: Aubin, Cameron A and Heisser, Ronald H and Peretz, Ofek and Timko, Julia and Lo, Jacqueline and Helbling, E Farrell and Sobhani, Sadaf and Gat, Amir D and Shepherd, Robert F
+  booktitle: Science 
+  year: 2023
+  category: workshop
+- title: High-speed interfacial flight of an insect-scale robot
+  author: Gao, Hang and Jung, Sunghwan and Helbling, E Farrell
+  booktitle: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  year: 2024
+  category: workshop
+- title: Absolute pose estimation for a mm-scale vision system
+  author: Ozturk, Derin and Wang, Zilin and Helbling, E Farrell
+  booktitle: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  year: 2024
+  category: workshop
+- title: Hardware-in-the-Loop for Characterization of Embedded State Estimation for Flying Microrobots
+  author: Naveen, Aryan and Morris, Jalil and Chan, Christian and Mhrous, Daniel and Helbling, E Farrell and Hyun, Nak-Seung Patrick and Hills, Gage and Wood, Robert J
+  booktitle: arXiv preprint arXiv:2411.06382
+  year: 2024
+  category: workshop
