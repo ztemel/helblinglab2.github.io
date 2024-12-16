@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Helbling Robotics Lab
-<!-- subtitle: Compliant Systems for Mechanical Intelligence -->
+#<!-- subtitle: Compliant Systems for Mechanical Intelligence -->
 
 ---
 
