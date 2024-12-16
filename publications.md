@@ -89,52 +89,25 @@ section {
 
 
   <div>
-
-
-
-<!-- <section id="Journal">
-  &nbsp;
-    <h2>Journal Publications</h2>
-    <div markdown="1">
+<!-- 
+<section id="">
 {% include render_pub_list.liquid variable="category" value="journal" check="==" %}
-</div>
-</section> 
-
-
-	 <section id="Conferences">
-&nbsp;
-    <h2>Full-length Conference Publications</h2>
-    <div markdown="1">
 {% include render_pub_list.liquid variable="category" value="conference" check="==" %}
-</div>
-</section>
-
-
-
-
-
-
-
- <section id="workshop">
-&nbsp;
-    <h2>Workshop and Short Conference Publications</h2>
-    <div markdown="1">
 {% include render_pub_list.liquid variable="category" value="workshop" check="==" %}
-</div>
-</section>
+{% include render_pub_list.liquid variable="category" value="workshop" check="==" %} -->
+ <!-- </section> -->
+<section id="Publications">
+  <!-- &nbsp; -->
+    <!-- <h2>Journal Publications</h2> -->
+    <div markdown="1">
+{% include render_pub_list.liquid variable="category" value="journal"  check="==" %}
+{% include render_pub_list.liquid variable="category" value="conference" value="workshop"  check="==" %}
+{% include render_pub_list.liquid variable="category" value="workshop"  check="==" %}
+<!-- </div> -->
+ 
 
-  </div>
-  <nav class="section-nav">
-    <ol>
-      <li><a href="#Journal">Journal</a></li>
-      <li><a href="#Conferences">Conference</a></li>
-      <li><a href="#workshop">Workshop and Short Conference</a></li>
-    </ol>
-  </nav>
-</main>
 
 
--->
 
 
 <script>
