@@ -33,6 +33,7 @@ subtitle: Lab Team
 	</div>
 </div>
 -->
+
 ### PhD Students
 
 <div class="container-fluid">
@@ -55,7 +56,7 @@ subtitle: Lab Team
 <div class="row">
 
 <div class="col-md-3 text-center">
-	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/cheney_zhang.jpg" alt="Chenyu Zhang" />Chenyu Zhang</a>
+	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/cheney_zhang.jpeg" alt="Chenyu Zhang" />Chenyu Zhang</a>
 </div>
 <div class="col-md-3 text-center">
 	<a href=""><img class="img-responsive img-circle" src="/assets/img/headshots/jason_yao.jpg" alt="Jason Yao" />Jason Yao</a>
