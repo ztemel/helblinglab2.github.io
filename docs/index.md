@@ -14,7 +14,7 @@ cover-img: "assets/img/robobeesliding.mov"
 We are a part of the [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) at [Cornell University](https://cornell.edu). 
 
 We are looking to expand our team. If you've read our reasearch and are looking to join us, [click here](efh45@cornell.edu).
-To get more information about research and facilities, [click here](/research).
+To get more information about research and facilities, [click here](../research).
 
 Feel free to stop by our lab in Phillips 328 to see our robots in action!
 
